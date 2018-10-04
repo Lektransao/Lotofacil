@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lotofacil.View", "Lotofacil.View\Lotofacil.View.csproj", "{DDC4B057-D642-48B5-9B9F-752996AF122C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lotofacil.Controller", "Lotofacil.Controller\Lotofacil.Controller.csproj", "{7EA4C9D4-532A-4159-A54F-82A67F0151D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lotofacil.Model", "Lotofacil.Model\Lotofacil.Model.csproj", "{DF8D5853-DB3A-410F-A1AE-317B8416E839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC4B057-D642-48B5-9B9F-752996AF122C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC4B057-D642-48B5-9B9F-752996AF122C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC4B057-D642-48B5-9B9F-752996AF122C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC4B057-D642-48B5-9B9F-752996AF122C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA4C9D4-532A-4159-A54F-82A67F0151D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA4C9D4-532A-4159-A54F-82A67F0151D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA4C9D4-532A-4159-A54F-82A67F0151D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA4C9D4-532A-4159-A54F-82A67F0151D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF8D5853-DB3A-410F-A1AE-317B8416E839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8D5853-DB3A-410F-A1AE-317B8416E839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8D5853-DB3A-410F-A1AE-317B8416E839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8D5853-DB3A-410F-A1AE-317B8416E839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77E68183-E742-435A-A10A-68D8F592DFE6}
+	EndGlobalSection
+EndGlobal

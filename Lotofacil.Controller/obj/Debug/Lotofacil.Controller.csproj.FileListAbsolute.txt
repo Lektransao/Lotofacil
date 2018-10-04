@@ -1,0 +1,11 @@
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.Controller\bin\Debug\Lotofacil.Controller.dll
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.Controller\bin\Debug\Lotofacil.Controller.pdb
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.Controller\obj\Debug\Lotofacil.Controller.csprojAssemblyReference.cache
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.Controller\obj\Debug\Lotofacil.Controller.csproj.CoreCompileInputs.cache
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.Controller\obj\Debug\Lotofacil.Controller.dll
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.Controller\obj\Debug\Lotofacil.Controller.pdb
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.Controller\bin\Debug\Lotofacil.Model.dll
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.Controller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.Controller\bin\Debug\Lotofacil.Model.pdb
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.Controller\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.Controller\obj\Debug\Lotofacil.Controller.csproj.CopyComplete

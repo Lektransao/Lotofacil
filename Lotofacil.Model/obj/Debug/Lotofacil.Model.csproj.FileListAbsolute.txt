@@ -1,0 +1,6 @@
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.Model\bin\Debug\Lotofacil.Model.dll
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.Model\bin\Debug\Lotofacil.Model.pdb
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.Model\obj\Debug\Lotofacil.Model.csprojAssemblyReference.cache
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.Model\obj\Debug\Lotofacil.Model.csproj.CoreCompileInputs.cache
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.Model\obj\Debug\Lotofacil.Model.dll
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.Model\obj\Debug\Lotofacil.Model.pdb

@@ -1,0 +1,14 @@
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.View\bin\Debug\Lotofacil.View.exe.config
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.View\bin\Debug\Lotofacil.View.exe
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.View\bin\Debug\Lotofacil.View.pdb
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.View\obj\Debug\Lotofacil.View.csprojAssemblyReference.cache
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.View\obj\Debug\Lotofacil.View.csproj.CoreCompileInputs.cache
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.View\obj\Debug\Lotofacil.View.exe
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.View\obj\Debug\Lotofacil.View.pdb
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.View\bin\Debug\Lotofacil.Controller.dll
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.View\bin\Debug\Lotofacil.Model.dll
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.View\bin\Debug\Lotofacil.Controller.pdb
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.View\bin\Debug\Lotofacil.Model.pdb
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.View\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mfeli\source\repos\Lotofacil\Lotofacil.View\obj\Debug\Lotofacil.View.csproj.CopyComplete
